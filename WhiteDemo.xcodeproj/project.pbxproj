@@ -13,6 +13,7 @@
 		9E96977D212446D000243B9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E96977C212446D000243B9D /* Assets.xcassets */; };
 		9E969780212446D000243B9D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E96977E212446D000243B9D /* LaunchScreen.storyboard */; };
 		9E969783212446D000243B9D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E969782212446D000243B9D /* main.m */; };
+		9E96978A21244A1B00243B9D /* problemImage.heic in Resources */ = {isa = PBXBuildFile; fileRef = 9E96978921244A1B00243B9D /* problemImage.heic */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		9E96977F212446D000243B9D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9E969781212446D000243B9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9E969782212446D000243B9D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9E96978921244A1B00243B9D /* problemImage.heic */ = {isa = PBXFileReference; lastKnownFileType = file; path = problemImage.heic; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		9E969772212446CE00243B9D /* WhiteDemo */ = {
 			isa = PBXGroup;
 			children = (
+				9E96978921244A1B00243B9D /* problemImage.heic */,
 				9E969773212446CE00243B9D /* AppDelegate.h */,
 				9E969774212446CE00243B9D /* AppDelegate.m */,
 				9E969776212446CE00243B9D /* ViewController.h */,
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E96978A21244A1B00243B9D /* problemImage.heic in Resources */,
 				9E969780212446D000243B9D /* LaunchScreen.storyboard in Resources */,
 				9E96977D212446D000243B9D /* Assets.xcassets in Resources */,
 				9E96977B212446CE00243B9D /* Main.storyboard in Resources */,
